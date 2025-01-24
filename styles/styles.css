@@ -1,3 +1,14 @@
+:root {
+    --width:20rem;
+    --margin:1rem;
+    --border:1px solid rgb;
+    --padding:1rem;
+    --background:#eee;
+    --color:#333;
+    --text-allign:center;
+
+}
+
 main {max-width: 840px;
 
 }
